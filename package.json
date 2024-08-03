@@ -1,13 +1,14 @@
 {
   "name": "cra-template-lyc",
-  "version": "1.0.0",
-  "description": "A custom template for create-react-app with Prettier, Tailwind CSS and TypeScript",
+  "version": "1.1.0",
+  "description": "A custom template for create-react-app with Prettier, React Router, Tailwind CSS and TypeScript",
   "keywords": [
     "react",
     "create-react-app",
     "template",
     "cra-template",
     "prettier",
+    "react-router",
     "tailwindcss",
     "typescript"
   ],
